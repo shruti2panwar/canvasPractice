@@ -190,6 +190,13 @@ canvas {
     color: #8a54ad;
 }
 
+.loginBtn {
+    text-decoration: none;
+    padding: 5px;
+    border-radious: 10px;
+    border: 1px solic #562974;
+}
+
 @media screen and (max-width: 1500px) {
     .canvas-two canvas {
         margin-left: 4vw;
